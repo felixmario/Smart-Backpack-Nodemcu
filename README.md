@@ -1,4 +1,4 @@
-# Smart-Backpack-Nodemcu
+Smart-Backpack-Nodemcu
 ==
 This is are one of my project for final exam at my university. 
 --
